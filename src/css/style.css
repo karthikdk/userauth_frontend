@@ -1,0 +1,10 @@
+.container ul li :link{
+    text-decoration: none;
+}
+
+span {
+    color: #e74c3c;
+    font-size: 14px;
+    margin-top: 5px;
+    display: block;
+  }
